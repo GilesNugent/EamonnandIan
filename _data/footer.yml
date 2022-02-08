@@ -1,8 +1,7 @@
 - links:
   - name: Blog
-    link: /blog/
-  - name: About
-    link: /about/
+    link: https://gilesnugent.substack.com
+    new_window: true
   - name: Contact
     link: /contact/
 - links:
@@ -16,7 +15,7 @@
     new_window: true
   - name: Privacy Policy
     link: https://bridgementor.app/BridgeMentorPrivacyPolicy.pdf
-    social_icon: Linkedin
+    social_icon: none
     new_window: true
 
   
