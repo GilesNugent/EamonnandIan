@@ -4,6 +4,9 @@
     new_window: true
   - name: Contact
     link: /contact/
+  - name: Privacy Policy
+    link: https://bridgementor.app/BridgeMentorPrivacyPolicy.pdf
+    new_window: true
 - links:
   - name: Facebook
     link: https://facebook.com/giles.nugent/
@@ -12,10 +15,6 @@
   - name: LinkedIn
     link: https://www.linkedin.com/in/gilesnugent/
     social_icon: LinkedIn
-    new_window: true
-  - name: Privacy Policy
-    link: https://bridgementor.app/BridgeMentorPrivacyPolicy.pdf
-    social_icon: none
     new_window: true
 
   
